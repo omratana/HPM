@@ -1,0 +1,6 @@
+{
+  "name": "ប្រព័ន្ធគ្រប់គ្រងធនធានមនុស្សមន្ទីរពេទ្យ",
+  "description": "Hospital Human Resources Management System with employee registry, document tracking, mission letters, and leave management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
